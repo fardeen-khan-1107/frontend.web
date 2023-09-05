@@ -1,0 +1,112 @@
+.sub4-1
+{
+    width: 1500px;
+    display:flex;
+}
+.sub4-1-1
+{
+    width: 50%;
+    margin-left: 31px;
+    margin-top: 10px;
+}
+.sub4-1-1 img
+{
+    width: 749px;
+    margin-left: 0px;
+    height: 650px;
+}
+.sub4-1-2
+{
+    text-align: center;
+    margin-left: 174px;
+    margin-top: 50px;
+}
+.sub4-1-2-1 img
+{
+    width: 200px;
+}
+.sub4-1-2-2
+{
+    font-size: 40px;
+    margin-top: 21px;
+    margin-bottom: 40px;
+}
+#email
+{
+    padding: 16px 3px;
+    font-size: 16px;
+    margin-right: 4px;
+    padding-right: 284px;
+    border: none;
+}
+#error
+{
+    color: red;
+}
+#email .placeholder
+{
+    padding: 0px;
+}
+#password
+{
+    padding: 3px 25px;
+    font-size: 36px;
+    border: none;
+}
+.word1
+{
+    padding-right: 422px;
+    font-size: 16px;
+    margin-top: 26px;
+    margin-bottom: 0px;
+}
+.word2
+{
+    padding-right: 389px;
+    font-size: 16px;
+    margin-top: 26px;
+    margin-bottom: 0px;
+}
+.sub4-1-2-3-3
+{
+    border: 2px solid black;
+    margin-top: 20px;
+    font-size: 23px;
+    padding: 9px 0px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+.sub4-1-2-3-3:hover{
+    opacity: 0.7;
+}
+.sub4-1-2-4
+{
+    font-size: 19px;
+    color: #5b81f1;
+    margin-top: 20px;
+}
+.sub4-1-2-5
+{
+    font-size: 20px;
+    margin-top: 23px;
+}
+.sub4-1-2-6
+{
+    margin-top: 20px;
+    padding: 13px 0px;
+    font-size: 20px;
+    background-color:#04eead;
+    border: 2px solid #04eead;
+    border-radius: 5px;
+}
+.sub4-1-2-6:hover
+{
+    opacity: 0.7;
+}
+#eye-open
+{
+    margin-left: -38px;
+    width: 20px;
+    margin-bottom: 6px;
+}
